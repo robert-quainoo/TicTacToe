@@ -1,6 +1,7 @@
 Tic-Tac-Toe Game
 
 Overview
+
 This project is a simple implementation of the classic Tic-Tac-Toe game created during my software trainee program with Amalitech. It serves as a demonstration of fundamental programming concepts and serves as a starting point for further exploration and improvement.
 
 Features
@@ -10,7 +11,7 @@ Win detection logic to determine the game's outcome.
 Getting Started
 Follow these steps to run the Tic-Tac-Toe game:
 
-Enter player choose sides at the beginning of the game.
+Player choose sides at the beginning of the game and also have the options of playing CPU.
 Players take turns entering their moves on the game board.
 The game declares the winner or a draw when the game concludes.
 Future Enhancements
