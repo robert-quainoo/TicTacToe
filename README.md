@@ -1,26 +1,50 @@
-Tic-Tac-Toe Game
+Here's an improved README with file navigation details:
 
-Overview
+---
 
-This project is a simple implementation of the classic Tic-Tac-Toe game created during my software trainee program with Amalitech. It serves as a demonstration of fundamental programming concepts and serves as a starting point for further exploration and improvement.
+# Tic-Tac-Toe Game
 
-Features
-Two-player mode for interactive gameplay.
-Basic console-based interface for easy interaction.
-Win detection logic to determine the game's outcome.
-Getting Started
-Follow these steps to run the Tic-Tac-Toe game:
+## Overview
 
-Player choose sides at the beginning of the game and also have the options of playing CPU.
-Players take turns entering their moves on the game board.
-The game declares the winner or a draw when the game concludes.
-Future Enhancements
-This project can be expanded and improved in several ways:
+This project is a simple implementation of the classic Tic-Tac-Toe game, developed during my software trainee program with Amalitech. It demonstrates fundamental programming concepts and serves as a base for further exploration and enhancements.
 
-Implement a graphical user interface (GUI) for a more user-friendly experience.
-Add additional features such as a replay option or game statistics.
-Optimize the code structure for scalability and maintainability.
-Acknowledgments
-This project was developed as part of my software trainee program with Amalitech, and I appreciate the support and guidance received during the learning process.
+## Features
+- **Two-player mode**: Interactive gameplay between two users.
+- **CPU mode**: Option to play against the computer.
+- **Win detection logic**: Automatically determines and announces the winner or declares a draw.
+- **Basic user interface**: Console-based interaction, ensuring simplicity and ease of use.
 
-Feel free to explore, modify, and build upon this project. If you have any questions or suggestions, please reach out!
+## File Structure
+
+Here’s how the files are organized:
+
+### Project Files
+- **index.html**: The main HTML file for the game interface.
+- **main.js**: Contains the game logic and functionalities for Tic-Tac-Toe.
+- **styles**: 
+  - *styles/*: Folder containing the CSS files for game design and styling.
+  
+### Assets
+- **assets/**: Folder with additional files, images, or resources used in the project.
+
+### Additional Files
+- **README.md**: Provides a detailed overview of the project.
+- **.gitattributes**: Configuration file for managing repository attributes.
+
+## Getting Started
+
+To run the Tic-Tac-Toe game:
+1. Open the `index.html` file in a web browser.
+2. Choose between two-player mode or CPU mode.
+3. Players take turns to enter their moves, with the game automatically updating the board.
+4. The game ends by announcing the winner or a draw.
+
+## Future Enhancements
+- **Graphical User Interface (GUI)**: Implement a more interactive and visually appealing interface.
+- **Replay Option**: Add a feature allowing players to restart the game without refreshing the page.
+- **Game Statistics**: Track win/loss statistics for each player.
+- **Code Optimization**: Refactor the code for better scalability and maintainability.
+
+## Acknowledgments
+
+This project was developed as part of my software trainee program at Amalitech. Special thanks to the team for their support and guidance throughout the process.
