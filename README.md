@@ -1,7 +1,3 @@
-Here's an improved README with file navigation details:
-
----
-
 # Tic-Tac-Toe Game
 
 ## Overview
