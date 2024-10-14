@@ -6,7 +6,7 @@ Here's an improved README with file navigation details:
 
 ## Overview
 
-This project is a simple implementation of the classic Tic-Tac-Toe game, developed during my software trainee program with Amalitech. It demonstrates fundamental programming concepts and serves as a base for further exploration and enhancements.
+This project is a simple implementation of the classic Tic-Tac-Toe game, developed during my software trainee program with Amalitech. It demonstrates fundamental programming concepts and serves as a base for further exploration and enhancements. To win, a player must align three marks consecutively in a row, column, or diagonally.
 
 ## Features
 - **Two-player mode**: Interactive gameplay between two users.
